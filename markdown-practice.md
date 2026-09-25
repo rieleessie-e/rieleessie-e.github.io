@@ -29,9 +29,10 @@ Learning **software engineering** requires practice with  *Git* and writing `Pyt
 def greet_user(name):
     print(f"Hello, {name}! Welcome to Git practice.")
 
-greet_user("Student") (```)
-> Blockquote
-*The expert in anything was once a beginner*
+greet_user("Student")
+ (```)
+## Blockquote
+>*The expert in anything was once a beginner*
 ## About me
 Hello! I am beginner developer focusing on full stack engineering.
 I use tools like Vs code to write clean code everyday.
